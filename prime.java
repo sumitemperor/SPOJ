@@ -6,7 +6,7 @@ import java.util.Vector;
 import static java.lang.Math.floor;
 import static java.lang.Math.sqrt;
 
-public class Sol {
+public class prime {
 
     static void findPrime(int lim, Vector<Integer> pri) {
         Boolean mark[] = new Boolean[lim+1];
